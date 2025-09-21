@@ -83,7 +83,7 @@
     "idb": "^8.0.1",
     "image-promise": "^7.0.1",
     "knockout": "^3.4.0",
-    "leaflet": "1.0.3",
+    "leaflet": "1.9.4",
     "leaflet-rotatedmarker": "^0.2.0",
     "load-script": "^2.0.0",
     "mapillary-js": "4.1.1",
